@@ -1,0 +1,38 @@
+제목 태그 <h1>제목 내용</h1> h1~h5
+문단 태그 <p>문단 내용</p>
+폰트 두껍게 하는 태그 <b>내용</b> <strong>내용</strong>
+기울임꼴 태그 <i></i> <em></em>
+밑줄 태그 <u></u> <ins></ins>
+줄바꿈 <br>
+띄워쓰기 &nbsp;
+카피라이트 &copy;
+목록태그 - 순번 있는 것 <ol>
+목록태그 - 순번 없는 것 <ul>
+목록태그 항목 태그 - <li>
+이미지태그 - <img src="경로" alt="대체텍스트">
+비디오태그 - <video src="" controls loop autoplay>
+오디오태그 - <audio src="" controls loop autoplay>
+하이퍼링크 - <a href="이동할페이지경로" target="출력위치">
+테이블 태그 - <table>
+테이블 제목영역 - <thead>
+테이블 본문영역 - <tbody>
+테이블 꼬리말영역 - <tfoot>
+테이블 행 - <tr>
+테이블 셀 - <td rowspan="" colspan="">
+테이블 제목셀 - <th>
+<caption></caption> 표 제목, 자동으로 가운데 정렬
+폼태그 <form></form>
+input 태그 <input type="text"> type에 따라 입력받는 형태가 달라짐
+    text, password, checkbox, submit
+label태그 <label for="아이디 속성값"></label>
+시멘틱(semantic) 태그
+    태그 요소를 브라우저와 개발자에게 정확게 어떤 콘텐츠 요소인지 설명
+
+    <header> : 머리글 영역
+    <nav> : 메뉴 링크, 링크 모음
+    <section> : 본문 영역
+    <article> : 본문 내용 영역
+    <aside> : 본문 외적인 내용, 배너, 광고링크
+    <footer> : 꼬리말 영역, 카피라이트, 회사정보, 신고번호, 이용약관, 개인정보취급방침...
+    <figure> : 사진 목록등의 콘텐츠 --> 썸네일 이미지 목록
+    <figcaption> : figure 태그의 캡션
